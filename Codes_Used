@@ -1,0 +1,10 @@
+
+###SQL CODES
+
+```sql
+SELECT
+	MONTH(Date) As Month,
+	SUM(money) as Total_Profit
+	FROM Coffee_Sales
+Group By MONTH(Date);
+```
