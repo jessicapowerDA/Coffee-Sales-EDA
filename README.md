@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Coffee Sales - Exploratory Data Analysis
 
 ## Table of Contents
 
