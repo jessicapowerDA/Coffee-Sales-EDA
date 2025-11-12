@@ -58,7 +58,7 @@ The EDA results are summarized as follows:
 Based on the EDA I reccomend the following actions:
 1. Invest in marketing and promotions during peak sales periods (February & October) 
 2. Focus on expanding and promoting top sellers - flavored Anericanos, Cappucinos and Lattes. 
-3. creating a customer loyalty program to encourage returning customers
+3. creating a customer loyalty program to encourage returning customers (especially during slower periods) 
 
 ### Limitations
 
