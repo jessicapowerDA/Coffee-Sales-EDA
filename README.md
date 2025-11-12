@@ -28,7 +28,7 @@ Coffee Sales Data: The primary dataset used for this EDA is the "Coffe_sales.csv
 During the first step of data cleaning and preperation I performed the following tasks:
 - Downloading the data and inspecting
 - Checking for duplicates, missing values & time/date mismatches.
-- Cleaning and formatting
+- Cleaning and formatting the data for analysis
 
 ### Exploratory Data Analysis
 
@@ -41,15 +41,16 @@ Exploring the sales data to answer these key business questions:
 ### Results of EDA
 
 The EDA results are summarized as follows:
-1. the sales did this, with peak sales around 
-2. The top selling products are in terms of quantity sold
-3. the ost profitable products are in terms of total revenue
+1. The weekly sales data show's that during the week the busiest days are Monday's and Tuesday's, the slowest days are Saturday's and Sundays.
+2. The yearly sales data show's that the busiest months are Febraury & October, the least profitable months being March and April. 
+3. The top selling products in terms of quantity sold (in order) are the Americano with Milk, Latte and Americano (without milk).
+4. the most profitable products in terms of total revenue (in order) are the Latte, Americano with milk and Cappucino
 
 ### Reccomendations
 
 Based on the EDA I reccomend the following actions:
-1. Invest in marketing and promotions during peak sales periods *include findings*
-2. Focus on expanding and promoting *top selling coffees*
+1. Invest in marketing and promotions during peak sales periods (February & October) 
+2. Focus on expanding and promoting top sellers - flavored Anericanos, Cappucinos and Lattes. 
 3. creating a customer loyalty program to encourage returning customers
 
 ### Limitations
