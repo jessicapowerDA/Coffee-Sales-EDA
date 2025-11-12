@@ -42,11 +42,14 @@ Exploring the sales data to answer these key business questions:
 
 The EDA results are summarized as follows:
 1. The weekly sales data show's that during the week the busiest days are Monday's and Tuesday's, the slowest days are Saturday's and Sundays.
-![alt text](TopDayOfWeek.jpg)  
+![alt text](TopDayOfWeek.jpg)
+
 2. The yearly sales data show's that the busiest months are Febraury & October, the least profitable months being March and April.
-![alt text](CoffeeYearProfits.png) 
+![alt text](CoffeeYearProfits.png)
+ 
 3. The top selling products in terms of quantity sold (in order) are the Americano with Milk, Latte and Americano (without milk).
-![alt text](CoffeeTypeSalesBarChart.png) 
+![alt text](CoffeeTypeSalesBarChart.png)
+ 
 4. the most profitable products in terms of total revenue (in order) are the Latte, Americano with milk and Cappucino
 ![alt text](CoffeeProfitsBarChart.jpg) 
 
