@@ -26,8 +26,8 @@ Coffee Sales Data: The primary dataset used for this EDA is the "Coffe_sales.csv
 
 ### Data Cleaning/Preparation
 During the first step of data cleaning and preperation I performed the following tasks:
-- Downloading the data and inspecting
-- Checking for duplicates, missing values & time/date mismatches.
+- Downloading the data and inspecting the contents for errors
+- Checking for duplicates, missing values, and time/date mismatches.
 - Cleaning and formatting the data for analysis
 
 ### Exploratory Data Analysis
@@ -57,7 +57,7 @@ The EDA results are summarized as follows:
 
 Based on the EDA I reccomend the following actions:
 1. Invest in marketing and promotions during peak sales periods (February & October) 
-2. Focus on expanding and promoting top sellers - flavored Anericanos, Cappucinos and Lattes. 
+2. Focus on expanding and promoting top sellers - flavored Americanos, Cappucinos and Lattes. 
 3. creating a customer loyalty program to encourage returning customers (especially during slower periods) 
 
 ### Limitations
