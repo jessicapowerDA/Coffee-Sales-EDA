@@ -22,7 +22,7 @@ Coffee Sales Data: The primary dataset used for this EDA is the "Coffe_sales.csv
 
 - Excel (Data Cleaning)
 - SQL Server (Data Analysis)
-- PowerBI (Creating Visuals & Report)
+- PowerBI (Creating Visuals)
 
 ### Data Cleaning/Preparation
 During the first step of data cleaning and preperation I performed the following tasks:
