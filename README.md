@@ -50,7 +50,7 @@ The EDA results are summarized as follows:
 ![alt text](MonthlyProfits.jpg)
  
 4. The top selling products in terms of quantity sold (in order) are the Americano with Milk, Latte and Americano (without milk).
-![alt text](CoffeeTypeSalesBarChart.png)
+![alt text](TopSellingProducts.jpg)
  
 5. the most profitable products in terms of total revenue (in order) are the Latte, Americano with milk and Cappucino
 ![alt text](CoffeeProfitsBarChart.jpg) 
