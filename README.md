@@ -45,7 +45,7 @@ The EDA results are summarized as follows:
 ![alt text](TopDayOfWeek.jpg)
 
 2. The yearly sales data show's that the busiest months are Febraury & October, the least profitable months being March and April.
-![alt text](CoffeeYearProfits.png)
+![alt text](MonthlyProfits.jpg)
  
 3. The top selling products in terms of quantity sold (in order) are the Americano with Milk, Latte and Americano (without milk).
 ![alt text](CoffeeTypeSalesBarChart.png)
