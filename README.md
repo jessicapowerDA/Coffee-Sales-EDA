@@ -53,7 +53,7 @@ The EDA results are summarized as follows:
 ![alt text](TopSellingProducts.jpg)
  
 5. the most profitable products in terms of total revenue (in order) are the Latte, Americano with milk and Cappucino
-![alt text](CoffeeProfitsBarChart.jpg) 
+![alt text](TopProfits.jpg) 
 
 ### Reccomendations
 
